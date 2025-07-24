@@ -13,5 +13,6 @@ PPVviaVLC enables anyone to broadcast pay-per-view (PPV) live streams from the c
 3. Launch your broadcast using VLC.
 4. Share your tokens so viewers can watch the live PPV stream.
 5. Windows users can run ppv_vlc_setup.py to locate or install VLC.
+6. Launch the graphical interface with `python pv_gui.py` to start a stream and share tokens.
 
 Remember to only stream content you have rights to share and comply with all local laws regarding pay-per-view broadcasts.
