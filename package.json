@@ -1,0 +1,20 @@
+{
+  "name": "ppvviavlc",
+  "version": "1.0.0",
+  "description": "PPVviaVLC enables anyone to broadcast pay-per-view (PPV) live streams from the comfort of their own device using VLC. It tokenizes access to your encrypted VLC stream so viewers must purchase a token to watch.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "hardhat": "^2.26.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.9.6"
+  }
+}
